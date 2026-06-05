@@ -1,2 +1,2 @@
 # fsa_block07_grid_practice
-In class practice using grid during block 7 of FSA web dev bootcamp
+In class practice using grid during unit 1 block 7 of the FSA web dev bootcamp
